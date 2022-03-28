@@ -20,7 +20,7 @@ A first estimation of classification performance of linear regression and *k*-ne
 
 ### Exercise 4.9
 
-Classification of the **vowel** dataset using quadratic discriminant analysis.  
+Classification of the **vowel** dataset using quadratic discriminant analysis. Also added a reduced-rank analysis for data visualization.   
 
 ### Exercise 11.5
 
